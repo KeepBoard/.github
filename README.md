@@ -14,13 +14,13 @@ Conventional changelog located [here](CHANGELOG.md).
 
 ## 🙏 Community & Contributions
 
-Please, follow [Contributing](.github/CONTRIBUTING.md) page.
+Please follow [Contributing](.github/CONTRIBUTING.md) page.
 
 <a name="codeofconduct"></a>
 
 ## 📙 Code of Conduct
 
-Please, follow [Code of Conduct](.github/CODE_OF_CONDUCT.md) page.
+Please follow [Code of Conduct](.github/CODE_OF_CONDUCT.md) page.
 
 ## 📑 License
 
