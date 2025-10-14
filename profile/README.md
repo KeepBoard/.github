@@ -1,6 +1,7 @@
 ## 🧩 KeepBoard HCM
 
-KeepBoard is an open-source Human Capital Management (HCM) platform and ecosystem. We build modular services and tools that help teams manage people operations end-to-end while remaining self-hostable and cloud-ready.
+KeepBoard is an open-source Human Capital Management (HCM) platform and ecosystem. We build modular services and tools that help teams manage people operations end-to-end while remaining
+self-hostable and cloud-ready.
 
 ### 🚀 What we build
 
@@ -26,7 +27,8 @@ KeepBoard is an open-source Human Capital Management (HCM) platform and ecosyste
 
 ### 📂 Repositories in this org
 
-You’ll find service backends, frontend apps, shared libraries, and infra tooling across the org. Start by checking pinned repositories on the organization page for the most active projects and roadmaps.
+You’ll find service backends, frontend apps, shared libraries, and infra tooling across the org. Start by checking pinned repositories on the organization page for the most active projects
+and roadmaps.
 
 ### 🤝 Contributing
 
@@ -45,7 +47,8 @@ Please ensure tests and linters pass locally before opening a PR.
 
 ### 🔐 Security
 
-If you discover a security issue, please do not open a public issue. Report it privately via the organization’s security reporting channel (e.g., GitHub Security Advisories). We will triage and respond as quickly as possible.
+If you discover a security issue, please do not open a public issue. Report it privately via the organization’s security reporting channel (e.g., GitHub Security Advisories). We will triage
+and respond as quickly as possible.
 
 ### 💬 Community and support
 
