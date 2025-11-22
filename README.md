@@ -1,4 +1,4 @@
-# ✨ KeepBoard HCM Project
+# ✨ Merlon HCM Project
 
 Default Community Health Files for the organization on GitHub.
 

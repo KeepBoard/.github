@@ -1,6 +1,6 @@
-## 🧩 KeepBoard HCM
+## 🧩 Merlon HCM
 
-KeepBoard is an open-source Human Capital Management (HCM) platform and ecosystem. We build modular services and tools that help teams manage people operations end-to-end while remaining
+Merlon is an open-source Human Capital Management (HCM) platform and ecosystem. We build modular services and tools that help teams manage people operations end-to-end while remaining
 self-hostable and cloud-ready.
 
 ### 🚀 What we build
