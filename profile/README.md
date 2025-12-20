@@ -54,7 +54,3 @@ and respond as quickly as possible.
 
 - Use GitHub Issues for bug reports and feature requests.
 - Use Discussions (if enabled) for questions and ideas.
-
-### 📑 License
-
-All code in this organization is licensed under the Apache License, unless noted otherwise in a repository. See the root [LICENSE](../LICENSE) for details.
